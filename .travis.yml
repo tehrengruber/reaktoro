@@ -9,6 +9,7 @@ cache: ccache
 
 os:
   - linux
+  - osx
 
 env:
   - CONDA_PY=36
